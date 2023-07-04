@@ -4,11 +4,16 @@
   "description": "Solution to the problem of finding the shortest path of a knight on  a chessboard to go from a starting position to an ending position",
   "main": "index.js",
   "scripts": {
-    "test": "npm jest"
+    "test": "npx jest"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "jest": "^29.5.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.22.6",
+    "@babel/preset-env": "^7.22.6",
+    "babel-jest": "^29.5.0"
   }
 }

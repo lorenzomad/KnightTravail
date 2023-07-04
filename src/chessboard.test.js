@@ -1,4 +1,4 @@
-import ChessBoard from "./chessBoard";
+import ChessBoard from "./chessBoard"
 
 let chessBoard
 
