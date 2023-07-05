@@ -52,7 +52,6 @@ const ChessBoard = () => {
             });
             links.push(linksLine)
             linksLine = []
-            
         });
         return links;
     }
